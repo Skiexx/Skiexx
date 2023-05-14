@@ -53,9 +53,9 @@
 
 ## ❯ gh stats
 
-![Stats](https://github-skiexx-stats-skiexx.vercel.app/api?username=skiexx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&show_icons=ture&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)  
-![Skiexx wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skiexx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&show_icons=ture&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skiexx&layout=donut&show_icons=true&locale=en&hide_border=true&theme=transparent&show_icons=tureicon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)  
+[![Stats](https://github-skiexx-stats-skiexx.vercel.app/api?username=skiexx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&show_icons=ture&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)](https://github.com/skiexx)  
+[![Skiexx wakatime stats](https://github-skiexx-stats-skiexx.vercel.app/api/wakatime?username=Skiexx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&show_icons=ture&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)](https://wakatime.com/@Skiexx)  
+[![Top Langs](https://github-skiexx-stats-skiexx.vercel.app/api/top-langs/?username=skiexx&layout=donut&show_icons=true&locale=en&hide_border=true&theme=transparent&show_icons=tureicon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)](https://github.com/Skiexx?tab=repositories)  
 
 ## ❯ cat Contributors
 
