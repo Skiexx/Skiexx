@@ -1,3 +1,10 @@
+## ❯ visits -a
+<div align="center">
+  
+  ![Skiexx](https://count.getloli.com/get/@Skiexx?theme=rule34)
+  
+</div>
+
 ## ❯ whoami
 <div align="center">
   
