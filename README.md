@@ -64,6 +64,10 @@
 [![Skiexx wakatime stats](https://github-skiexx-stats-skiexx.vercel.app/api/wakatime?username=Skiexx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&show_icons=ture&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)](https://wakatime.com/@Skiexx)  
 [![Top Langs](https://github-skiexx-stats-skiexx.vercel.app/api/top-langs/?username=skiexx&layout=donut&show_icons=true&locale=en&hide_border=true&theme=transparent&show_icons=tureicon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)](https://github.com/Skiexx?tab=repositories)  
 
+## ❯ listen
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=08ed4vtcsggyns52ub509rgtp&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=08ed4vtcsggyns52ub509rgtp&redirect=true)
+
 ## ❯ cat Contributors
 
 * [Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub): :sunglasses: A curated list of GitHub badges for your next project
